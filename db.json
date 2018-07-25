@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstname": "Juan",
+      "lastname": "Dela Cruz",
+      "email": "jdc@gmail.com",
+      "contactno" : "639271698546"
+    },
+    {
+      "id": 2,
+      "firstname": "Digong",
+      "lastname": "Duterte",
+      "email": "du30@gmail.com",
+      "contactno" : "639150142454"
+    },
+    {
+      "id": 3,
+      "firstname": "Gloria",
+      "lastname": "Arroyo",
+      "email": "ga@gmail.com",
+      "contactno" : "639362015457"
+    },
+    {
+      "id": 4,
+      "firstname": "Erap",
+      "lastname": "Estrada",
+      "email": "erapestrada@gmail.com",
+      "contactno" : "639201234567"
+    },
+    {
+      "id": 5,
+      "firstname": "Nonoy",
+      "lastname": "Aquino",
+      "email": "nognog@gmail.com",
+      "contactno" : "639215646578"
+    },
+    {
+      "id": 6,
+      "firstname": "Cardo",
+      "lastname": "Dalisay",
+      "email": "probinsyano@gmail.com",
+      "contactno" : "639132456784"
+    }
+  ]
+}

@@ -2,50 +2,50 @@
   "users": [
     {
       "id": 1,
-      "firstname": "Juan",
-      "lastname": "Dela Cruz",
+      "firstName": "Juan",
+      "lastName": "Dela Cruz",
       "email": "jdc@gmail.com",
-      "contactno" : "639271698546",
+      "contactNo" : "639271698546",
       "password" : "jdc@123"
     },
     {
       "id": 2,
-      "firstname": "Digong",
-      "lastname": "Duterte",
+      "firstName": "Digong",
+      "lastName": "Duterte",
       "email": "du30@gmail.com",
-      "contactno" : "639150142454",
+      "contactNo" : "639150142454",
       "password" : "dd30@123"
     },
     {
       "id": 3,
-      "firstname": "Gloria",
-      "lastname": "Arroyo",
+      "firstName": "Gloria",
+      "lastName": "Arroyo",
       "email": "ga@gmail.com",
-      "contactno" : "639362015457",
+      "contactNo" : "639362015457",
       "password" : "ga@123"
     },
     {
       "id": 4,
-      "firstname": "Erap",
-      "lastname": "Estrada",
+      "firstName": "Erap",
+      "lastName": "Estrada",
       "email": "erapestrada@gmail.com",
-      "contactno" : "639201234567",
+      "contactNo" : "639201234567",
       "password" : "ee@123"
     },
     {
       "id": 5,
-      "firstname": "Nonoy",
-      "lastname": "Aquino",
+      "firstName": "Nonoy",
+      "lastName": "Aquino",
       "email": "nognog@gmail.com",
-      "contactno" : "639215646578",
+      "contactNo" : "639215646578",
       "password" : "na@123"
     },
     {
       "id": 6,
-      "firstname": "Cardo",
-      "lastname": "Dalisay",
+      "firstName": "Cardo",
+      "lastName": "Dalisay",
       "email": "probinsyano@gmail.com",
-      "contactno" : "639132456784",
+      "contactNo" : "639132456784",
       "password" : "cd@123"
     }
   ]
